@@ -40,12 +40,16 @@ font-weight:bold;
   }
 .card{
   border: none;
+  
+
 }
 .card1 img{
   height: 380px;
  
  
 }
+
+
 .card-images{
   background-color:#F1F1F1;
   border-radius: 20px;
@@ -55,6 +59,11 @@ font-weight:bold;
 .card-footer {
   border: none;
   background-color: white;
+  padding: 5px 5px;
+}
+.fa-sharp{
+  padding-right: 3px;
+
 }
 .card-footer h1{
 
@@ -62,6 +71,19 @@ font-weight:bold;
 }
 .footer-btn{
   margin-left:30%;
+}
+.last-image img {
+  height: 80%;
+  width: 600px;
+}
+.img1 img{
+  height: 100px;
+  width: 80px;
+
+
+}
+.text1{
+  margin-left: -100px;
 }
 
    
